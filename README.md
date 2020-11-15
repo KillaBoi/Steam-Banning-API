@@ -8,6 +8,6 @@ This repository uses the Steamworks "ICheatReportingService Interface" to assist
 4) On the right side, there will be a "Create WebAPI Key" button, press it and you'll get it. Keep it safe and do not share it with anyone.
 
 ## How to use this script
-MAKE SURE YOU HAVE PYTHON AND REQUESTS MODULES INSTALLED (pip install requests)
+__**MAKE SURE YOU HAVE PYTHON AND REQUESTS MODULES INSTALLED**__ (`pip install requests`)
 1) [Download it](https://raw.githubusercontent.com/KillaBoi/Steam-Banning-API/master/SteamGameBanAPI.py)
 2) Run it and follow the instructions.
