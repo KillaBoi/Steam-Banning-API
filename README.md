@@ -9,6 +9,6 @@ This repository uses the Steamworks "ICheatReportingService Interface" to assist
 
 ## How to use this script
 __**MAKE SURE YOU HAVE PYTHON AND REQUESTS MODULES INSTALLED**__ (`pip install requests`)
-__**!!!! MAKE SURE YOU HAVE ENABLED THE ANTI-CHEAT SERVICE FROM THE STEAMWORKS PARTNER PORTAL !!!!**__
+<br><br>__**!!!! MAKE SURE YOU HAVE ENABLED THE ANTI-CHEAT SERVICE FROM THE STEAMWORKS PARTNER PORTAL !!!!**__
 1) [Download it](https://raw.githubusercontent.com/KillaBoi/Steam-Banning-API/master/SteamGameBanAPI.py)
 2) Run it and follow the instructions.
