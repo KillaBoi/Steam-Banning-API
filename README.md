@@ -14,7 +14,7 @@ __**MAKE SURE YOU HAVE PYTHON AND REQUESTS MODULES INSTALLED**__ (`pip install r
 2) Run it and follow the instructions.
 
 ## Games known to have used this script (thank you so much <3):
-*Just because the game is listed here does not mean they will give you the ban so please respect the developers of the games)
+*Just because the game is listed here does not mean they will give you the ban so please respect the developers of the games)*
 
 1) [Banana Shooter](https://store.steampowered.com/app/1949740/Banana_Shooter/)
 2) [Tanks: The Crusades](https://store.steampowered.com/app/1660910/Tanks_The_Crusades/)
