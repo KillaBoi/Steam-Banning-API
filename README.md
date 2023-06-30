@@ -26,3 +26,4 @@ __**MAKE SURE YOU HAVE PYTHON AND REQUESTS MODULES INSTALLED**__ (`pip install r
 8) [Down To One](https://store.steampowered.com/app/334040/Down_To_One/)
 9) [BlastFort](https://store.steampowered.com/app/1682790/BlastFort/)
 10) [Deep the Game](https://store.steampowered.com/app/1046470/Deep_the_Game/)
+11) [BlasterBeat](https://store.steampowered.com/app/1575680/BlasterBeat/)
