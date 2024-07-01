@@ -7,7 +7,7 @@ This repository uses the Steamworks "ICheatReportingService Interface" to assist
 3) Click on "Everyone"
 4) On the right side, there will be a "Create WebAPI Key" button, press it and you'll get it. Keep it safe and do not share it with anyone.
 
-**NOTE: Your "Everyone" group must have the application added to the group itself, if it is not then only the owner of the original appid can create a new group and add the application to it.**
+**NOTE: Your "Everyone" group must have the application added to the group itself, if it is not then only the owner of the original appid can create a new group and add the application to it.**<br>
 *(thanks to [zoox](https://x.com/Zo0x_) for the information whilst testing for [Bodycam](https://store.steampowered.com/app/2406770/Bodycam/))*
 
 ## How to use this script
