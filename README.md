@@ -21,6 +21,10 @@ __**MAKE SURE YOU HAVE PYTHON AND REQUESTS MODULES INSTALLED**__ (`pip install r
 A lovely member of the community [3L0935](https://github.com/3L0935) has kindly made a GUI based version of this software for ease of use.
 If you'd like to check it out then it is located [Here](https://github.com/3L0935/Steam_Banning_Tool_GUI) (thank you and much love <3)
 
+## Non python based GUI edition
+Another lovely member of the community [Enreeper](https://github.com/Enreeper/) has also made another GUI based version of this program that does not utilise python and should be ready to go as is from release or building the source yourself.
+If you'd like to check it out then it is located [Here](https://github.com/Enreeper/SteamGameBanGUI) (thank you and much love <3)
+
 ## Games known to have used this script (thank you so much <3):
 *Just because the game is listed here does not mean they will give you the ban so please respect the developers of the games)*
 
