@@ -1,6 +1,8 @@
 # Steam-Publisher-API-Banning
 This repository uses the Steamworks "ICheatReportingService Interface" to assist you in banning a user from your game.
 
+_**NOTE: Recently a lot of new monkeys have joined the scene and decided to "fake ban" in order to gain money. A license for a game on Steam via Steam Direct costs $100. You are being charged $20-25 for the privilege of faking red text on your profile for a bit and then you're going to unban yourself. Please don't fall for a scam and please use your braincells.**_
+
 ## Getting your Steamworks API Key
 1) Login to your account on the [Steam Partner Page](https://partner.steamgames.com/)
 2) Click on "Users & Permissions" and select "Manage Groups"
